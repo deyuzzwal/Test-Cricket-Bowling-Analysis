@@ -15,3 +15,4 @@
 - Players who had the lowest economy rate
 - Players who had the lowest strike rate
 - Players who had the lowest bowling average
+- Source: https://stats.espncricinfo.com/ci/content/records/93276.html
