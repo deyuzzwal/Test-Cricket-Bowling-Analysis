@@ -1,6 +1,6 @@
 # Test-Cricket-Bowling-Analysis
-# Objectives
 # Source: https://stats.espncricinfo.com/ci/content/records/93276.html
+# Objectives
 - CSV file reading in different strategies
 - Number of rows and columns in the dataframe
 - Data statistics
@@ -16,4 +16,3 @@
 - Players who had the lowest economy rate
 - Players who had the lowest strike rate
 - Players who had the lowest bowling average
-- Source: https://stats.espncricinfo.com/ci/content/records/93276.html
