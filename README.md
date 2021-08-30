@@ -11,7 +11,7 @@
 - Number of Australian Bowlers are present in this dataset
 - Number of Bangladeshi Bowlers are present in this dataset
 - Number of different countries are present in the dataset
-- Players had played for the ligest period and shortest period of time
+- Players had played for the longest period and shortest period of time
 - Players who had the lowest economy rate
 - Players who had the lowest strike rate
 - Players who had the lowest bowling average
