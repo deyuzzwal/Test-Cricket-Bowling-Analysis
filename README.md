@@ -1,5 +1,6 @@
 # Test-Cricket-Bowling-Analysis
 # Objectives
+# Source: https://stats.espncricinfo.com/ci/content/records/93276.html
 - CSV file reading in different strategies
 - Number of rows and columns in the dataframe
 - Data statistics
